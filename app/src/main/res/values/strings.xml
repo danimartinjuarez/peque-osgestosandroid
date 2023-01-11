@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pequenos Gestos</string>
+
+    <array name="activityTypes">
+        <item>Senior</item>
+        <item>General</item>
+        <item>Pets</item>
+        <item>Baby</item>
+    </array>
+</resources>
